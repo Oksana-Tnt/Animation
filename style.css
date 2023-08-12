@@ -1,0 +1,139 @@
+/*1056.061767578125*/
+
+#svg__lettersG__R1 {
+    stroke-dashoffset: 1056;
+    stroke-dasharray: 1056;
+  
+    fill-opacity: 0;
+  
+    animation: drawN 2.5s forwards;
+  }
+
+  @keyframes drawN {
+    o% {
+      stroke-dashoffset: 1056;
+    }
+    70% {
+      stroke-dashoffset: 0;
+      fill-opacity: 0;
+    }
+    100% {
+      stroke-dashoffset: 0;
+      fill-opacity: 1;
+    }
+  }
+
+  #svg__lettersG__R2 {
+    stroke-dashoffset: 101;
+    stroke-dasharray: 101;
+  
+    fill-opacity: 0;
+  
+    animation: drawN 2.5s forwards;
+  }
+
+  @keyframes drawN {
+    o% {
+      stroke-dashoffset: 101;
+    }
+    70% {
+      stroke-dashoffset: 0;
+      fill-opacity: 0;
+    }
+    100% {
+      stroke-dashoffset: 0;
+      fill-opacity: 1;
+    }
+  }
+
+  #svg__lettersG__R3 {
+    stroke-dashoffset: 65;
+    stroke-dasharray: 65;
+  
+    fill-opacity: 0;
+  
+    animation: drawN 2.5s forwards;
+  }
+
+  @keyframes drawN {
+    o% {
+      stroke-dashoffset: 65;
+    }
+    70% {
+      stroke-dashoffset: 0;
+      fill-opacity: 0;
+    }
+    100% {
+      stroke-dashoffset: 0;
+      fill-opacity: 1;
+    }
+  }
+
+  #svg__lettersG__R4 {
+    stroke-dashoffset: 646;
+    stroke-dasharray: 646;
+  
+    fill-opacity: 0;
+  
+    animation: drawN 2.5s forwards;
+  }
+
+  @keyframes drawN {
+    o% {
+      stroke-dashoffset: 646;
+    }
+    70% {
+      stroke-dashoffset: 0;
+      fill-opacity: 0;
+    }
+    100% {
+      stroke-dashoffset: 0;
+      fill-opacity: 1;
+    }
+  }
+
+  #svg__lettersG__R5 {
+    stroke-dashoffset: 65;
+    stroke-dasharray: 65;
+  
+    fill-opacity: 0;
+  
+    animation: drawN 2.5s forwards;
+  }
+
+  @keyframes drawN {
+    o% {
+      stroke-dashoffset: 65;
+    }
+    70% {
+      stroke-dashoffset: 0;
+      fill-opacity: 0;
+    }
+    100% {
+      stroke-dashoffset: 0;
+      fill-opacity: 1;
+    }
+  }
+
+  #svg__lettersG__R6 {
+    stroke-dashoffset: 646;
+    stroke-dasharray: 646;
+  
+    fill-opacity: 0;
+  
+    animation: drawN 2.5s forwards;
+  }
+
+  @keyframes drawN {
+    o% {
+      stroke-dashoffset: 646;
+    }
+    70% {
+      stroke-dashoffset: 0;
+      fill-opacity: 0;
+    }
+    100% {
+      stroke-dashoffset: 0;
+      fill-opacity: 1;
+    }
+  }
