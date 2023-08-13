@@ -2,3 +2,6 @@
 let element = document.querySelector("#svg__lettersG__R6");
 
 console.log(element.getTotalLength());
+
+
+
