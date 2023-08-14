@@ -1,6 +1,6 @@
 /*1056.061767578125*/
 
-#svg__lettersG__R1 {
+/* #svg__lettersG__R1 {
     stroke-dashoffset: 1056;
     stroke-dasharray: 1056;
   
@@ -164,14 +164,14 @@
       to {
         opacity: 1
       }
-    }
+    } */
 
 
 
 
     #svg__lettersGF__R1 {
-      stroke-dashoffset: 1056;
-      stroke-dasharray: 1056;
+      stroke-dashoffset: 709;
+      stroke-dasharray: 709;
     
       fill-opacity: 0;
     
@@ -179,7 +179,7 @@
     }
     @keyframes drawN {
       o% {
-        stroke-dashoffset: 1056;
+        stroke-dashoffset: 709;
       }
       100% {
         stroke-dashoffset: 0;
@@ -187,8 +187,8 @@
     }
 
     #svg__lettersGF__R2 {
-      stroke-dashoffset: 101;
-      stroke-dasharray: 101;
+      stroke-dashoffset: 1168;
+      stroke-dasharray: 1168;
     
       fill-opacity: 0;
     
@@ -197,15 +197,15 @@
   
     @keyframes drawN {
       o% {
-        stroke-dashoffset: 101;
+        stroke-dashoffset: 1168;
       }      
       100% {
         stroke-dashoffset: 0;       
       }
     }
     #svg__lettersGF__R3 {
-      stroke-dashoffset: 65;
-      stroke-dasharray: 65;
+      stroke-dashoffset: 64;
+      stroke-dasharray: 64;
     
       fill-opacity: 0;
     
@@ -214,7 +214,7 @@
   
     @keyframes drawN {
       o% {
-        stroke-dashoffset: 65;
+        stroke-dashoffset: 64;
       }
       
       100% {
@@ -222,7 +222,7 @@
       }
     }
 
-    #svg__lettersGF__R4 {
+    /* #svg__lettersGF__R4 {
       stroke-dashoffset: 646;
       stroke-dasharray: 646;
     
@@ -279,4 +279,4 @@
         stroke-dashoffset: 0;
         
       }
-    }
+    } */
